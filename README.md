@@ -29,7 +29,7 @@ For more information, please email  mailto:webinfo@pjconnacherfossandlinuxprojec
 
 LICENSE
 =========
-For License-related information, please see LICENSE.TXT the root directory of the main repository. Or go to https://github.com/FOSS-Education-and-Documentation/main/LICENSE.txt
+For License-related information, please see LICENSE.md in the root directory of the main repository. Or go to https://github.com/FOSS-Education-and-Documentation/main/blob/main/LICENSE.md
 
 
 LAST NOTE
