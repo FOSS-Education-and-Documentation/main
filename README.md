@@ -1,20 +1,25 @@
-# FOSS EDUCATION AND DOCUMENTATION PROJECT
+ FOSS EDUCATION AND DOCUMENTATION PROJECT
+==============================================
 
------------------------------------------------------------------------------------------
-VERSION 1.0
+
+Version:      1.0
 Language:     EN-ZA
 Author:       Paul Connacher
 Created:      Friday, 22 April, 2202 | 08:45 AM
 Home Page:    https://www.pjconnacherfossandlinuxprojects.co.za
-Email:        mailto:webinfo@pjconnacherfossandlinuxprojects.co.za
------------------------------------------------------------------------------------------
-
 
 
 
 INTRODUCTION
 ===============
-This project was created with the ideo of creating a extensively large volume of text and video-based tutorials for FOSS, commercial and all Linux Distributions and providing them for free on the project's home page (TBA) for anyone to can access the webpage a well-constructed platform to learn abot all things FOSS And Linux Related.
+To provide detailed PDF and video based open source tutorials for as many open source Linux Distros as possible as well detailed PDF and video-based open source tutorials for as wide a range of Free and Open Source Software for Linux. This idea and the mediums of instruction will change based on the expansion of the overall project.
+
+These two goals will be provided initially by contributors Paul Connacher and Jefferson Connacher and we keep on looking to welcome additional contributors to our project.
+
+Our goal is to educate people around the world on Linux and FOSS for Linux, effectively, efficiently and free-of-any-costs-and-charges pertaining to accessing the tutorial PDFs, videos, blog, and/or website content.
+
+I will be registering a separate web domain later today. Am hoping to use pjconnacherlinuxandfossprojects.co.za if it is still available. This will be the official website where all components of this project will be linked to become the FOSS Education and Documentation Project where anyone from anywhere in the world can learn about Linux and Linux FOSS for free.
+
 
 
 MORE INFORMATION
